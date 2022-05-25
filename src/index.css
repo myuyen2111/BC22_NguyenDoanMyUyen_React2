@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.bg {
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 1500px;
+}
+.h1-text {
+  background-color: rgba(62, 62, 62, 0.8);
+  margin: 0px;
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+.try_glasses {
+  position: absolute;
+  top: 97px;
+  left: 413px;
+  opacity: 0.8;
+  width: 150px;
+}
+.glasses_info {
+  position: relative;
+  width: 300px;
+  height: 125px;
+  background-color: rgba(253, 189, 143, 0.8);
+  top: 240px;
+  left: 322px;
+  text-align: left;
+}
